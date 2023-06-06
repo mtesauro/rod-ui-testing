@@ -1,0 +1,39 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+## Neovim stuff
+Session.vim
+.undodir
+
+## Names of compiled programs in this repo
+loginPackage
+test-pt01.exe
+test-u01.exe
+test-u02.exe
+test-u03.exe
+test-u04.exe
+test-u05.exe
+test-u06.exe
+test-pt02.exe
+test-Test-Hover-Command.exe
+test-pt03.exe
+test-pt04.exe
+test-pt06.exe
+test-e01.exe
+test-e02.exe
+test-gr01.exe
+test-gr02.exe
+jino/test-p01/test-p01
